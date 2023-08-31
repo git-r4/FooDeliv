@@ -1,0 +1,53 @@
+{
+  "beef": {
+    "b1": {
+      "name": "Prime Steak",
+      "id": "b1",
+      "price": 7
+    },
+    "b2": {
+      "name": "Steak Beef (700 gr.)",
+      "id": "b2",
+      "price": 14
+    },
+    "b3": {
+      "name": "Entrecote",
+      "id": "b3",
+      "price": 9
+    }
+  },
+  "chicken": {
+    "c1": {
+      "name": "Chicken with salad",
+      "id": "c1",
+      "price": 6
+    },
+    "c2": {
+      "name": "The Gold Chicken",
+      "id": "c2",
+      "price": 11
+    },
+    "c3": {
+      "name": "Chicken whit sauce",
+      "id": "c3",
+      "price": 8
+    }
+  },
+  "drinks": {
+    "d1": {
+      "id": "d1",
+      "name": "Soft Drink",
+      "price": 2.5
+    },
+    "d2": {
+      "id": "d2",
+      "name": "Coca-Cola",
+      "price": 2
+    },
+    "d3": {
+      "id": "d3",
+      "name": "Juice",
+      "price": 3
+    }
+  }
+}

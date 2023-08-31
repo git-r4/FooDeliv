@@ -1,0 +1,15 @@
+.error{
+  text-align: center;
+  display: grid;
+  grid-template-row: auto auto;
+  grid-row-gap: 30px;
+  place-items: center;
+  svg{
+    color: #e1b838;
+    font-size: 7em;
+  }
+  h3{
+    color: #e1b838;
+    font-size: 2em;
+  }
+}
